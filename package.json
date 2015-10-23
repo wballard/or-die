@@ -1,0 +1,19 @@
+{
+  "name": "or-die",
+  "version": "0.0.1",
+  "description": "The simple way to exit if things aren't as you want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wballard/or-die.git"
+  },
+  "author": "Will Ballard <wballard@mailframe.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wballard/or-die/issues"
+  },
+  "homepage": "https://github.com/wballard/or-die"
+}
